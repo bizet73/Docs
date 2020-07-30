@@ -1,10 +1,5 @@
-## 1.0 (14/07/2020 à 23h42)
-- Mise en place des modification de @pm2036  pour la prise en compte du nouveaux firmware.
-- Application des modifications de @JAG  pour la prise en compte de PHP 7.3.
-- Mise a jour des liens de documentation
-- Mise a jour des visuels
-- Refonte du widget By Domotech.
-- Changement de repository GitHub : https://github.com/trmaud/Jeedom_Palazzetti
-
-## 0.1 (01/06/2020 à 17h00)
-- Deplacement de l'ancien repo au nouveaux
+## 1.1 (30/07/2020 à 23h42)
+- Mise à jour des données du plugin lors de la modification d'une valeur
+- Modification des requêtes envoyées au poêle pour être compatible avec la V1 de CBOX
+- Changement de repository GitHub : https://github.com/bizet73/Jeedom_Palazzetti_CBOX_V1
+- Récupération du plugin Palazzetti à l'adresse suivante : https://github.com/trmaud/Jeedom_Palazzetti
